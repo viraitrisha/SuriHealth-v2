@@ -1,2 +1,2 @@
-# SuriHealth-v2
+# SuriHealth
 An updated version of SuriHealth.
