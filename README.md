@@ -1,2 +1,7 @@
 # SuriHealth
-An updated version of SuriHealth.
+This is an updated version of SuriHealth.
+
+## Techstack
+
+```
+```
